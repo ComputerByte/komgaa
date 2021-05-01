@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script by @ComputerByte 
-# For komga Uninstalls
+# For Komga Uninstalls
 
 # Log to Swizzin.log
 export log=/root/logs/swizzin.log
